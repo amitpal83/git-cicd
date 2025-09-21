@@ -1,0 +1,14 @@
+{
+  "name": "git-cicd-demo",
+  "version": "1.0.0",
+  "description": "Demo project to test code assist and review workflows",
+  "main": "test.js",
+  "scripts": {
+    "test": "node test.js",
+    "lint": "echo 'Linting complete'",
+    "build": "echo 'Build complete'"
+  },
+  "keywords": ["ci", "cd", "automation", "github-actions"],
+  "author": "amitpal83",
+  "license": "MIT"
+}
