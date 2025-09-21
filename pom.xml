@@ -11,7 +11,7 @@
 	<groupId>com.xyner</groupId>
 	<artifactId>git-cicd</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>git-cicd</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
